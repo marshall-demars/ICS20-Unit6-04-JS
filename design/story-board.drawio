@@ -1,0 +1,42 @@
+<mxfile host="65bd71144e">
+    <diagram id="NLMdwFuDThJSYHxl9u7S" name="Page-1">
+        <mxGraphModel dx="502" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="13" style="edgeStyle=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=14;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="470" y="363" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="40" width="430" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Calculating the volume of a sphere using quere strings" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="40" width="430" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="100" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="132.5" width="80" height="15" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Input the radius (cm), for the sphere" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="45" y="190" width="210" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Formula= 4/3 x&amp;nbsp;&lt;span style=&quot;font-size: 14px ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; color: rgba(0 , 0 , 0 , 0.87) ; letter-spacing: 0.02em&quot;&gt;π&amp;nbsp;&lt;/span&gt;x r&lt;span style=&quot;font-size: 16px ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; color: rgba(0 , 0 , 0 , 0.87) ; letter-spacing: 0.02em&quot;&gt;³&lt;/span&gt;&lt;br&gt;&amp;nbsp;&lt;h5 style=&quot;padding: 0px ; font-weight: 500 ; line-height: 1 ; letter-spacing: 0.02em ; margin: 24px 0px 16px ; color: rgba(0 , 0 , 0 , 0.87)&quot;&gt;&lt;/h5&gt;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="220" width="130" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="r = 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="245" width="40" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Volume is: 523.60 cm&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.87) ; font-family: &amp;#34;roboto&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 16px ; letter-spacing: 0.32px ; text-align: left&quot;&gt;³&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Helvetica;" vertex="1" parent="1">
+                    <mxGeometry x="45" y="265" width="160" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=#000000;fontFamily=Helvetica;fontSize=14;labelBorderColor=default;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="310" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
